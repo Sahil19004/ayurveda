@@ -18,9 +18,9 @@ const images = {
 const productImages = {
   nightHorse: '/products/night-horse.jpeg',
   shaktiPrash: '/products/shakti-prash.jpeg',
-  trailPack: '/products/trail-pack.jpeg',
+  trailPack: '/products/man-power-oil.jpeg',
   pleasure: '/products/pleasure.jpeg',
-  manPowerOil: '/products/man-power-oil.jpeg',
+  manPowerOil: '/products/trail-pack.jpeg',
   instantAuraKit: '/products/instant-aura-kit.jpeg',
   mensAura: '/products/mens-aura.jpeg'
 };
