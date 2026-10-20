@@ -29,9 +29,9 @@ const products = [
   { name: 'Shakti Prash', category: 'Wellness', description: 'A premium Ayurvedic rasayana for vitality, strength and rejuvenation.', image: productImages.shaktiPrash, ingredients: 'Traditional herbs and botanicals.' },
   { name: 'Night Horse', category: 'Wellness', description: 'A high-extract Ayurvedic formula for stamina and strength.', image: productImages.nightHorse, ingredients: 'A proprietary blend of Ayurvedic extracts.' },
   { name: 'Men’s Aura', category: 'Wellness', description: 'A considered formula for strength, reproductive health and duration.', image: productImages.mensAura, ingredients: 'A blend of traditional herbs and minerals.' },
-  { name: 'Man Power Oil', category: 'Personal Care', description: 'A botanical massage oil for a confident, restorative ritual.', image: productImages.manPowerOil, ingredients: 'A nourishing herbal oil blend.' },
-  { name: 'Pleasure', category: 'Wellness', description: 'A fast-acting Ayurvedic proprietary medicine for vitality and stamina.', image: productImages.pleasure, ingredients: 'A proprietary blend of Ayurvedic extracts.' },
   { name: 'Trail Pack', category: 'Wellness', description: 'A natural capsule blend enriched with powerful herbs for everyday stamina.', image: productImages.trailPack, ingredients: 'Shatavari, Shilajeet, Ashwagandha and other herbs.' },
+  { name: 'Pleasure', category: 'Wellness', description: 'A fast-acting Ayurvedic proprietary medicine for vitality and stamina.', image: productImages.pleasure, ingredients: 'A proprietary blend of Ayurvedic extracts.' },
+  { name: 'Man Power Oil', category: 'Personal Care', description: 'A botanical massage oil for a confident, restorative ritual.', image: productImages.manPowerOil, ingredients: 'A nourishing herbal oil blend.' },
   { name: 'Instant Aura Kit', category: 'Wellness', description: 'A complete pairing for natural strength, better health and vibrant living.', image: productImages.instantAuraKit, ingredients: 'A curated combination of Ayurvedic products.' }
 ];
 
@@ -39,6 +39,8 @@ const heroSlides = [
   { image: productImages.shaktiPrash, name: 'Shakti Prash', category: 'Premium Ayurvedic Rasayana', message: 'Vitality, strength & rejuvenation' },
   { image: productImages.nightHorse, name: 'Night Horse', category: 'Ayurvedic Proprietary Medicine', message: 'Boost stamina. Increase strength.' },
   { image: productImages.mensAura, name: 'Men’s Aura', category: 'Ayurvedic Wellness', message: 'Strength, vitality & confidence' },
+  { image: productImages.trailPack, name: 'Trail Pack', category: 'Wellness', message: 'Natural capsules for everyday vitality' },
+  { image: productImages.pleasure, name: 'Pleasure', category: 'Ayurvedic Wellness', message: 'Vigor, stamina & confidence' },
   { image: productImages.manPowerOil, name: 'Man Power Oil', category: 'Botanical Personal Care', message: 'A restorative ritual for every day' },
   { image: productImages.instantAuraKit, name: 'Instant Aura Kit', category: 'Complete Wellness Kit', message: 'Natural strength. Better health.' }
 ];
